@@ -133,7 +133,8 @@ celerybeat.pid
 
 # SageMath parsed files
 *.sage.py
-
+# negleted files
+ch2.4_web_scrapping/selenium
 # Environments
 .env
 .envrc
