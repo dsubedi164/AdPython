@@ -1,7 +1,3 @@
-Name,Age,City,Occupation
-Alice,28,New York,Software Engineer
-Bob,35,San Francisco,Data Scientist
-Carol,32,Boston,Product Manager
-David,29,Seattle,DevOps Engineer
-Emma,31,Austin,UX Designer
-Frank,27,Chicago,NaN
+version https://git-lfs.github.com/spec/v1
+oid sha256:7128498888dc9f74fd0f81589e959524e83af317022ebee081c0ea035c482f89
+size 209
