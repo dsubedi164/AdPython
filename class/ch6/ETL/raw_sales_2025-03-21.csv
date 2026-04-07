@@ -1,0 +1,7 @@
+order_id,customer_id,product,quantity,unit_price,order_date,status
+1001.0,501,Laptop,2,899.99,2025-03-01,completed
+1002.0,502,Smartphone,1,599.99,2025-03-01,completed
+1003.0,501,Tablet,3,299.99,2025-03-02,completed
+1004.0,503,Monitor,2,199.99,,pending
+1005.0,504,Keyboard,5,49.99,2025-03-02,completed
+,505,Mouse,10,24.99,2025-03-03,completed

@@ -1,0 +1,6 @@
+customer_id,purchase_amount,purchase_date,category,amount_category,month
+101,250.75,2026-02-01,Electronics,Medium,2
+102,213.125,2026-02-02,Books,Medium,2
+103,175.5,2026-02-03,Clothing,Medium,2
+104,300.0,2026-02-04,Electronics,Medium,2
+105,89.99,2026-02-05,Books,Low,2
